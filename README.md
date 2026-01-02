@@ -5,4 +5,4 @@ I'm using this repository only for my knowledge for git and GitHub &&& I'm using
 <br>
 I have added a new html code in index.html for the website of my GitHub and LinkedIn profiles with the help of ChatGPT
 <br>
-Although this website is not created by me, but I likeit very much
+Although this website is not created by me, but I likeit very much.
