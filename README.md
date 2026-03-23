@@ -4,7 +4,7 @@ A data science project that detects fraudulent job postings using Natural Langua
 
 
 ## 🌐 Live Demo
-[🚀 Visit app↗](https://fake-job-detector-bushra.streamlit.app/)
+[🚀 Visit App↗](https://fake-job-detector-bushra.streamlit.app/)
 
 
 ## 🚀 Features
@@ -60,13 +60,14 @@ This project is actively being developed. Future improvements include:
 - Scaling deployment for production use  
 
 
+## 🤝 Contribution
+
+Contributions are welcome! If you’d like to improve this project
+Feel free to explore, use, and improve the project 🚀
+
+
 ## ▶️ How to Run Locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-## 🤝 Contribution
-
-Contributions are welcome! If you’d like to improve this project
-Feel free to explore, use, and improve the project 🚀
