@@ -60,7 +60,7 @@ streamlit run app.py
 
 ## 🤝 Contribution
 
-Contributions are welcome! If you’d like to improve this project
+Contributions are welcome! If you’d like to improve this project<br>
 Feel free to explore, use, and improve the project 🚀
 
 
