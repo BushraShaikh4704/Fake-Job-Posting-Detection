@@ -4,7 +4,7 @@ A data science project that detects fraudulent job postings using Natural Langua
 
 
 ## 🌐 Live Demo
-[🚀Visit app↗](https://fake-job-detector-bushra.streamlit.app/)
+[🚀 Visit app↗](https://fake-job-detector-bushra.streamlit.app/)
 
 
 ## 🚀 Features
