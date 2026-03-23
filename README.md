@@ -49,15 +49,13 @@ A data science project that detects fraudulent job postings using Natural Langua
 
 
 ## 🧪 Testing
-The application was tested using multiple real and synthetic job descriptions, including edge cases like empty input and long text, to ensure robustness and reliability.
+The application was tested using multiple real and synthetic job descriptions, including edge cases like empty input and long text, to ensure robustness and reliability. 
 
 
-## 🚧 Project Status
-This project is actively being developed. Future improvements include:
-- Trying advanced ML/DL models  
-- Improving text preprocessing  
-- Enhancing UI/UX of the web app  
-- Scaling deployment for production use  
+## ▶️ How to Run Locally
+
+pip install -r requirements.txt
+streamlit run app.py
 
 
 ## 🤝 Contribution
@@ -66,8 +64,9 @@ Contributions are welcome! If you’d like to improve this project
 Feel free to explore, use, and improve the project 🚀
 
 
-## ▶️ How to Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+## 🚧 Project Status
+This project is actively being developed. Future improvements include:
+- Trying advanced ML/DL models  
+- Improving text preprocessing  
+- Enhancing UI/UX of the web app  
+- Scaling deployment for production use 
