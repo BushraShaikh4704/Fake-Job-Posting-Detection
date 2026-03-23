@@ -1,10 +1,8 @@
-# This is my local Repo
-This is only practice based repository
-<br>
-I'm using this repository only for my knowledge for git and GitHub &&& I'm using this rpository for improving my git and GitHub skills
-<br>
-I have added a new html code in index.html for the website of my GitHub and LinkedIn profiles with the help of ChatGPT
-<br>
-Although this website is not created by me, but I like it very much, Greate na.
-<br>
-Study purpose only..
+# Fake Job Posting Detection using NLP
+
+A data science project that detects fake job postings using NLP techniques. The model processes job descriptions using TF-IDF vectorization and applies machine learning algorithms to classify postings as fraudulent or legitimate.
+
+# 🚧 Project Status: In Progress
+
+This project is currently under development as part of my learning in data science and machine learning.
+Core functionality has been implemented, and further improvements, optimization, and deployment features will be added soon.
