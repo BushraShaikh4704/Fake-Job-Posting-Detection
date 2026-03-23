@@ -3,10 +3,10 @@ import streamlit as st
 import pickle
 
 # Load model
-with open('/content/drive/MyDrive/Fake_Job_Project/model.pkl', 'rb') as f:
+with open('model.pkl', 'rb') as f:
     model = pickle.load(f)
 
-with open('/content/drive/MyDrive/Fake_Job_Project/vectorizer.pkl', 'rb') as f:
+with open('vectorizer.pkl', 'rb') as f:
     vectorizer = pickle.load(f)
 
 st.title("Fake Job Posting Detection")
