@@ -1,3 +1,8 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/Python-3.10-blue)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Live App](https://img.shields.io/badge/Live-App-red)]((https://fake-job-detector-bushra.streamlit.app/))
+
 # 🔍 Fake Job Posting Detection using NLP
 
 A data science project that detects fraudulent job postings using Natural Language Processing (NLP) and Machine Learning techniques. The model analyzes job descriptions and classifies them as **Real or Fake**.
@@ -26,6 +31,11 @@ A data science project that detects fraudulent job postings using Natural Langua
 - Scikit-learn  
 - NLP (TF-IDF Vectorization)  
 - Streamlit  
+
+## 📄 License
+
+This project is licensed under the MIT License 
+see the [LICENSE↗](LICENSE) file for details.
 
 
 ## 📸 App Preview
@@ -63,10 +73,6 @@ streamlit run app.py
 Contributions are welcome! If you’d like to improve this project<br>
 Feel free to explore, use, and improve the project 🚀
 
+## Author
 
-## 🚧 Project Status
-This project is actively being developed. Future improvements include:
-- Trying advanced ML/DL models  
-- Improving text preprocessing  
-- Enhancing UI/UX of the web app  
-- Scaling deployment for production use 
+Bushra Shaikh
