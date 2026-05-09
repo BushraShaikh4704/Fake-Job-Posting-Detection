@@ -75,4 +75,4 @@ Feel free to explore, use, and improve the project 🚀
 
 ## Author
 
-Bushra Shaikh
+Shaikh Bushra
